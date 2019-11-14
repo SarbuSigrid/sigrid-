@@ -1,7 +1,6 @@
 body{
   background-color: tan;
   font-family: sans-serif;
-  text-align: center;
 }
 h1{
   font-size: 25px;
@@ -15,6 +14,13 @@ h1{
   }
   span{
     color: cyan;
+  }
+    color: green;
+    .tea{
+      color:green;
+      font-family: fantasy
+      
+
   }
   #special{
     color: brown;
