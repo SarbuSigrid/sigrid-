@@ -1,0 +1,42 @@
+body {
+    box-sizing: border-box;
+}
+#p1{
+
+    font-weight: bolder;
+    font-family: "Handlee" ;
+    font-size: 1,2em;
+    text-align: right;
+    border: 3px solid yellowgreen;
+    
+    border-radius: 1em;
+    padding: 5px  10px 20px;
+    margin: auto;
+    background-color: hotpink; 
+    background-image:url(background.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size
+    color: white;
+    width: 250px;
+    height: 250px;
+    box-sizing:border-box
+}
+p{
+    font-weight: normal;
+    font-family: "Roboto";
+    line-height: 1.2em;
+    
+}
+#p1 span{
+    color: tomato;
+
+}
+div{
+    background-color: burlywood;
+    border: 2px solid red;
+    padding: 10px;
+}
+div div{
+    background-color: 2px solid purple;
+}
