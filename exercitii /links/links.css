@@ -1,0 +1,59 @@
+ a {
+     color: palevioletred;
+     text-decoration: none;
+ }
+a:link {
+
+    
+
+}
+a:visited {
+
+
+}
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: lightseagreen;
+    text-decoration-style: dashed;
+
+}
+::selection {
+    background-color: maroon;
+
+}
+::first-line {
+    text-transform: uppercase;
+}
+.magic {
+    display:none;
+    position: absolute;
+    top:1em;
+    background-color: gray;
+    border-radius: 5px;
+.
+}
+.dropdown.hover {
+    position: absolute;
+    background-color: aquamarine; 
+    padding: 20px;
+
+}
+.dropdown.hover.magic{
+    display:block
+}
+.trans {
+    background-color: orange;
+    border-radius:1em ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 30px ;
+    transform: rotate(20deg) scale(2, 2);
+    
+}
+.trans:hover {
+    top: 20%;
+    background-color: blue;
+    transition: transform 1s;background-color 2s;
+}
