@@ -95,3 +95,6 @@ left: 8em;
     .human {
         visibility: hidden;
     }
+    #letters {
+        font-size: 2em;
+    }
