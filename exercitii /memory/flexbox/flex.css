@@ -1,0 +1,15 @@
+nav {
+    background-color: sandybrown;
+    display: flex;
+    justify-content: space-around;
+}
+
+div:first-child {
+    background-color: pink;
+}
+div;:nth-child(2) {
+    background-color: rgb(230, 176, 192);
+}
+div:last-child {
+    background-color: rebeccapurple;
+}
