@@ -1,0 +1,17 @@
+@import'var';
+$color: pink;
+
+nav {
+    ul {
+        background-color: gainsboro;
+        li {
+            display:inline-block;}
+            a {
+                text-decoration: none;
+                color: $secondary_color;
+                padding: $default_padding * 2;
+
+            }
+        }
+    }
+
